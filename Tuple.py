@@ -1,0 +1,6 @@
+tuple1=('P''Y''T''H''O''N')
+print(tuple1)
+print(len(tuple1))
+print(tuple1[3])
+print(tuple1[-3])
+print(tuple1[3:8])
